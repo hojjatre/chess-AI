@@ -1,8 +1,11 @@
 CHESS AI
 
 Minimax search
+
 Alpha-Beta pruning
+
 Move ordering: 1.Captures 2.Non-Captures
+
 
 Captures:
     chess.PAWN: 100,
@@ -11,6 +14,7 @@ Captures:
     chess.BISHOP: 330,
     chess.QUEEN: 900,
     chess.KING: 20000
+
 
 Non-Captures:
     Killer Heuristic
