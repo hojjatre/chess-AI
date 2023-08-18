@@ -1,10 +1,12 @@
-CHESS AI
+# CHESS AI
 
 Minimax search
 
 Alpha-Beta pruning
 
-Move ordering: 1.Captures 2.Non-Captures
+Move ordering:
+1. Captures
+2. Non-Captures
 
 
 Captures:
